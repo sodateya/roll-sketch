@@ -1,14 +1,14 @@
 ---
-title: Privacy Policy — Roll Sketch
+title: Privacy Policy — RollSketch
 ---
 
-# Privacy Policy for Roll Sketch
+# Privacy Policy for RollSketch
 
-**Effective date: July 7, 2026**
+**Effective date: July 7, 2026 (last updated: October 13, 2026)**
 
-This Privacy Policy explains how the mobile application **Roll Sketch** ("the App", "we", "us") collects, uses, and protects your information. By using the App, you agree to the practices described here.
+This Privacy Policy explains how the mobile application **RollSketch** ("the App", "we", "us") collects, uses, and protects your information. By using the App, you agree to the practices described here.
 
-You can use most of the App — drawing, saving sketches locally, adjusting settings, and creating time-lapse recordings — **without creating an account**. Some optional features (such as syncing your profile and unlocking additional content) require you to sign in.
+You can use most of the App — drawing, saving sketches locally, adjusting settings, and creating time-lapse recordings — **without creating an account**. Some optional features — backing up your saved sketches to the cloud and syncing them across your devices, a profile, and custom colors for the drawing toy — require you to sign in.
 
 ## 1. Information We Collect
 
@@ -17,12 +17,12 @@ When you choose to sign in, we use **Sign in with Apple** or **Google Sign-In**.
 
 ### b. Profile information
 If you create a profile, we store the information you provide:
-- a username (public handle),
+- a username (your account ID),
 - an optional display name, and
 - an avatar image — either an automatically generated identicon or a photo you choose to upload.
 
-### c. User content
-Sketches you save, and any time-lapse recordings you create, may be stored so they can be synced to your account. You control whether a saved drawing is private or shared.
+### c. Sketches backed up to the cloud
+While you are signed in, the sketches you save (including the stroke timing used for time-lapse playback) are automatically backed up to our server and synced across the devices where you sign in with the same account. Backed-up sketches are private to your account and are not visible to other users. Sketches you save while signed out are stored only on your device.
 
 ### d. Photo library access
 With your permission, the App accesses your device's photo library to:
@@ -41,7 +41,7 @@ The App contains **no advertising, no third-party analytics, and no tracking SDK
 
 We use the information above to:
 - authenticate you and maintain your account,
-- display and sync your profile and saved content,
+- display your profile, and back up and sync your saved sketches,
 - provide the features you request (e.g., saving GIFs, choosing an avatar), and
 - keep the service secure and functioning.
 
@@ -57,18 +57,17 @@ The App relies on the following third parties, each with its own privacy policy:
 - **DiceBear (api.dicebear.com)** — generates default avatar images. Your device requests these images directly, which may expose your IP address to the service.
 - **Google Fonts (fonts.gstatic.com)** — supplies a display font. Your device may fetch the font, which may expose your IP address to the service.
 
-## 4. Sharing and Public Content
+## 4. Sharing
 
 We share your information only:
-- with the service providers listed above, to operate the App;
-- content you choose to make public or share (such as a drawing you explicitly share); and
+- with the service providers listed above, to operate the App; and
 - where required by law.
 
-Information you make public (for example, a username or a shared drawing) may be visible to other users.
+The App currently has no public or social features: your profile and backed-up sketches are not shown to other users. When you share a drawing or GIF using your device's share sheet, it is sent only to the app or person you choose.
 
 ## 5. Data Retention and Account Deletion
 
-We keep your account data while your account is active. You can **delete your account at any time** from **Settings → Account → Delete Account**. Deleting your account removes your profile and associated content from our systems. Content stored only on your device is removed when you delete the App.
+We keep your account data while your account is active. You can **delete your account at any time** from **Settings → Account → Delete Account**. Deleting your account removes your account, your profile information (username and display name), and the sketches backed up to the cloud from our systems. Sketches saved on your device are not deleted by account deletion; they are removed when you delete them in the App or delete the App.
 
 ## 6. Children's Privacy
 
