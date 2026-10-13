@@ -75,7 +75,7 @@ We keep your account data while your account is active. You can **delete your ac
 
 ## 6. Children's Privacy
 
-The App is not directed to children under the age required by your local law (for example, 13 in the U.S.). We do not knowingly collect personal information from such children. If you believe a child has provided us information, please contact us so we can remove it.
+People of all ages, including children, can use the App's drawing features without an account. Signing in (creating an account) is intended only for users who are at least the age required by your local law (for example, 13 in the U.S.); we do not knowingly collect personal information such as an email address or profile from children under that age. Without signing in, the App only sends the random device identifier described in section 1-e, which is used solely to keep the service secure and to check whether an update is required, and is not used for advertising or tracking. If you believe a child has provided us personal information, please contact us so we can remove it.
 
 ## 7. Security
 
