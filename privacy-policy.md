@@ -31,10 +31,13 @@ With your permission, the App accesses your device's photo library to:
 
 We only access photos you explicitly select or save. We do not scan or upload your photo library.
 
-### e. On-device settings
+### e. Device identifier
+The App creates a random identifier for your device and stores it in the device's secure storage (Keychain). When the App starts or returns to the foreground, it sends this identifier, the App version, and the platform to our server, together with your account ID if you are signed in. We use this only to keep the service secure — for example, to stop a device or account that abuses the service from using online features (sign-in and cloud backup) — and to tell you when an update is required. It is not used for advertising or tracking and is not shared with third parties. When you delete your account, the link between this identifier and your account is removed.
+
+### f. On-device settings
 Preferences such as pen sensitivity, dot size, language, and custom colors are stored **locally on your device** and are not transmitted to us.
 
-### f. Information we do NOT collect
+### g. Information we do NOT collect
 The App contains **no advertising, no third-party analytics, and no tracking SDKs**. We do not track you across other apps or websites.
 
 ## 2. How We Use Your Information
@@ -43,7 +46,8 @@ We use the information above to:
 - authenticate you and maintain your account,
 - display your profile, and back up and sync your saved sketches,
 - provide the features you request (e.g., saving GIFs, choosing an avatar), and
-- keep the service secure and functioning.
+- keep the service secure and functioning (including restricting online features for devices or accounts that abuse the service), and
+- notify you when an App update is required.
 
 We do **not** sell your personal information.
 
